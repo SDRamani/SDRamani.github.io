@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Newest Game"
-summary: "Lead Programmer and Designer"
-date:   2022-10-09 15:39:40
+title:  "Alibi"
+summary: "UI/UX engineer"
+date:   2024-08-20 
 preview: /assets/postpreview.png
 ---
 
@@ -10,6 +10,4 @@ preview: /assets/postpreview.png
 
 Here's some impressive stuff I did:
 
-* Added ChatGPT for NPC dialogues
-* Won game of the year from 200 publications
-* Was named *Time* person of the year (as a video game)
+* 
