@@ -3,7 +3,7 @@ layout: post
 title:  "Alibi"
 summary: "UI/UX engineer"
 date:   2024-08-20 
-preview: /assets/postpreview.png
+preview: /assets/alibipreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
