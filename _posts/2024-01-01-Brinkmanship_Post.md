@@ -2,7 +2,7 @@
 layout: post
 title:  "Newer Game"
 summary: "Senior Technical Designer"
-date:   2022-10-07 15:39:40
+date:   2024-01-07 15:39:40
 preview: /assets/postpreview.png
 ---
 

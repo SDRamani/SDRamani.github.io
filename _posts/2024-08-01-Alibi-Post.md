@@ -2,7 +2,7 @@
 layout: post
 title:  "Alibi"
 summary: "UI/UX engineer"
-date:   2024-08-20 
+date:   2024-08-20 15:39:40
 preview: /assets/alibipreview.png
 ---
 
