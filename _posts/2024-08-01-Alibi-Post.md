@@ -7,6 +7,7 @@ preview: /assets/alibipreview.png
 ---
 
 ![Picture 1](/assets/fullsize.png)
+Alibi is a point and click mystery game developed as a master student thesis project at USC.
 
 *Game yet to be released in 2025
 
