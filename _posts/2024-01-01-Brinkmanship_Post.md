@@ -8,4 +8,6 @@ preview: /assets/postpreview.png
 
 ![Picture 1](/assets/fullsize.png)
 
-Put down info here, either in bullets or paragraphs.
+Steam Link: https://store.steampowered.com/app/2858410/Brinkmanship/
+
+

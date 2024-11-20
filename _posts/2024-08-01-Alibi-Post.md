@@ -12,4 +12,6 @@ preview: /assets/alibipreview.png
 
 Here's some impressive stuff I did:
 
-* 
+* Integrate the dialogue UI assets into the game
+
+* Debugging issues found with existing Unity Dialogue plugin
