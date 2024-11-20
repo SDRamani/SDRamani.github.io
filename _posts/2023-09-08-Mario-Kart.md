@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Old Game"
-summary: "Technical Designer"
+title:  "Mario Cart (ITP380 Project)"
+summary: "Gameplay & AI Programmer"
 date:   2022-09-08 15:39:40
 preview: /assets/postpreview.png
 ---

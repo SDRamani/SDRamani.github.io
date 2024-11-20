@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Newer Game"
-summary: "Senior Technical Designer"
+title:  "Brinkmanship"
+summary: "Programmer"
 date:   2024-01-07 15:39:40
 preview: /assets/postpreview.png
 ---
