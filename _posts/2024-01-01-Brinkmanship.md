@@ -6,7 +6,7 @@ date:   2024-01-07 15:39:40
 preview: /assets/brink_preview.jpg
 ---
 
-![Picture 1](/assets/brink_fullsize.jpg)
+![Picture 1](/assets/brink_fullsize.jpg){:height="450px" width="800px"}
 
 Steam Link: [https://store.steampowered.com/app/2858410/Brinkmanship/](https://store.steampowered.com/app/2858410/Brinkmanship/)
 
