@@ -11,5 +11,6 @@ preview: /assets/postpreview.png
 This is a Mario Kart enemy racing AI and place tracking
 
 Here's some impressive stuff I did:
-* Integrate the dialogue UI assets into the game
-* Debugging issues found with existing Unity Dialogue plugin
+* Created spring camera that dynamically moves depending on character position
+* Added an enemy car AI to compete against the player
+
