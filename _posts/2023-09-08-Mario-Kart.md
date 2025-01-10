@@ -8,4 +8,8 @@ preview: /assets/postpreview.png
 
 ![Picture 1](/assets/fullsize.png)
 
-Put down info here, either in bullets or paragraphs.
+This is a Mario Kart enemy racing AI and place tracking
+
+Here's some impressive stuff I did:
+* Integrate the dialogue UI assets into the game
+* Debugging issues found with existing Unity Dialogue plugin
