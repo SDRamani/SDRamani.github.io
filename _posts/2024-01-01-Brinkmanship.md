@@ -3,10 +3,10 @@ layout: post
 title:  "Brinkmanship"
 summary: "Programmer"
 date:   2024-01-07 15:39:40
-preview: /assets/postpreview.png
+preview: /assets/brink_preview.png
 ---
 
-![Picture 1](/assets/fullsize.png)
+![Picture 1](/assets/brink_fullsize.png)
 
 Steam Link: [https://store.steampowered.com/app/2858410/Brinkmanship/](https://store.steampowered.com/app/2858410/Brinkmanship/)
 
