@@ -10,4 +10,7 @@ preview: /assets/postpreview.png
 
 Steam Link: https://store.steampowered.com/app/2858410/Brinkmanship/
 
+Here's some impressive stuff I did:
+* Created demos of the enviroment for testing before final devevlopment
+* Implemented the settings system and UI in the final game
 
