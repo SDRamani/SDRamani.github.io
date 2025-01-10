@@ -8,7 +8,7 @@ preview: /assets/postpreview.png
 
 ![Picture 1](/assets/fullsize.png)
 
-Steam Link: https://store.steampowered.com/app/2858410/Brinkmanship/
+Steam Link: [https://store.steampowered.com/app/2858410/Brinkmanship/](https://store.steampowered.com/app/2858410/Brinkmanship/)
 
 Here's some impressive stuff I did:
 * Created demos of the enviroment for testing before final devevlopment
