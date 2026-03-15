@@ -2,7 +2,7 @@
 layout: post
 title:  "Ghost Love"
 summary: "Ren-Py Engineer"
-date:   2024-08-20 15:39:40
+date:   2025-06-20 15:39:40
 preview: /assets/alibipreview.png
 img1: /assets/Alibi_VN.jpg
 img2: /assets/Alibi_Interaction.jpg
