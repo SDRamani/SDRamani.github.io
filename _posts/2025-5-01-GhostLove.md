@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Alibi"
+summary: "Gameplay Engineer"
+date:   2024-08-20 15:39:40
+preview: /assets/alibipreview.png
+img1: /assets/Alibi_VN.jpg
+img2: /assets/Alibi_Interaction.jpg
+img3: /assets/Alibi_SideScrolling.jpg
+---
+Alibi is a point and click mystery game developed as a master student thesis project at USC.
+
+*Game yet to be released in 2025
+
+Here's some impressive stuff I did:
+* Integrate the dialogue UI assets into the game
+* Debugging issues found with existing Unity Dialogue plugin
