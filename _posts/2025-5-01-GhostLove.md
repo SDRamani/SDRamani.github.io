@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Alibi"
-summary: "Gameplay Engineer"
+title:  "Ghost Love"
+summary: "Ren-Py Engineer"
 date:   2024-08-20 15:39:40
 preview: /assets/alibipreview.png
 img1: /assets/Alibi_VN.jpg
 img2: /assets/Alibi_Interaction.jpg
 img3: /assets/Alibi_SideScrolling.jpg
 ---
-Alibi is a point and click mystery game developed as a master student thesis project at USC.
+Ghost Love is a horror visual novel with point and click puzzle solving created in the Ren-Py Engine for a game jam.
 
-*Game yet to be released in 2025
+Demo Link: https://corrocerous.itch.io/ghostlove
 
 Here's some impressive stuff I did:
 * Integrate the dialogue UI assets into the game
