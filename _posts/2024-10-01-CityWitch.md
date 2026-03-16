@@ -11,8 +11,9 @@ img3: /assets/Alibi_SideScrolling.jpg
 City Witch is an arcade-style adventure game developed in Unity, where players time accurate arrow key commands to defeat waves of monsters.
 
 *Game yet to be released
-Demo Link: https://sdramani.itch.io/city-witch
+
+Demo Link: [https://sdramani.itch.io/city-witch](https://sdramani.itch.io/city-witch)
 
 Here's some impressive stuff I did:
-*Created basic frameworks for all enemies, levels, players allowing for easy iteration from other designers
-*Created reactive UI with lone keyboard compatibility
+* Created basic frameworks for all enemies, levels, players allowing for easy iteration from other designers
+* Created reactive UI with lone keyboard compatibility

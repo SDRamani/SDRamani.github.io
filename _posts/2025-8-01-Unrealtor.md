@@ -13,5 +13,5 @@ The Unrealtor is a surreal 3D puzzle game developed as a Advanced Game Project a
 *Game yet to be released in 2026
 
 Here's some impressive stuff I did:
-*Create custom dialogue system that integrates UI from Yarnspinner and audio effects from FMOD
-*Implemented reactive menu's and integration between keyboard and controller inputs for co-op gameplay
+* Create custom dialogue system that integrates UI from Yarnspinner and audio effects from FMOD
+* Implemented reactive menu's and integration between keyboard and controller inputs for co-op gameplay
