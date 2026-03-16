@@ -5,6 +5,8 @@ summary: "Programmer"
 date:   2024-01-07 15:39:40
 preview: /assets/brink_preview.jpg
 img1: /assets/brink_fullsize.jpg
+img2: /assets/brinkmanship_ui.jpg
+img3: /assets/brinkmanship_void.jpg
 ---
 Steam Link: [https://store.steampowered.com/app/2858410/Brinkmanship/](https://store.steampowered.com/app/2858410/Brinkmanship/)
 
