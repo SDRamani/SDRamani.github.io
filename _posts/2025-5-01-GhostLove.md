@@ -3,10 +3,10 @@ layout: post
 title:  "Ghost Love"
 summary: "Ren-Py Engineer"
 date:   2025-06-20 15:39:40
-preview: /assets/alibipreview.png
-img1: /assets/Alibi_VN.jpg
-img2: /assets/Alibi_Interaction.jpg
-img3: /assets/Alibi_SideScrolling.jpg
+preview: /assets/gl_preview.png
+img1: /assets/gl_title.png
+img2: /assets/gl_flash.jpg
+img3: /assets/gl_story.jpg
 ---
 Ghost Love is a horror visual novel with point and click puzzle solving created in the Ren-Py Engine for a game jam.
 
