@@ -13,5 +13,5 @@ Ghost Love is a horror visual novel with point and click puzzle solving created 
 Demo Link: https://corrocerous.itch.io/ghostlove
 
 Here's some impressive stuff I did:
-* Integrate the dialogue UI assets into the game
-* Debugging issues found with existing Unity Dialogue plugin
+*Created point and click screens, with flashlight ui and reactive dialogue for puzzle solving
+*Worked with scenario writer to map out conditions and implement multiple endings and dead ends
