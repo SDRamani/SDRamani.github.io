@@ -10,7 +10,7 @@ img3: /assets/fullsize.png
 ---
 The Unrealtor is a surreal 3D puzzle game developed as a Advanced Game Project at USC, where 2 players must create matching images across their screen divide.
 
-*Game yet to be released in 2026
+Steam Link: [https://store.steampowered.com/app/4420050/The_Unrealtor/](https://store.steampowered.com/app/4420050/The_Unrealtor/)
 
 Here's some impressive stuff I did:
 * Create custom dialogue system that integrates UI from Yarnspinner and audio effects from FMOD
