@@ -3,10 +3,9 @@ layout: post
 title:  "Cemented Dreams"
 summary: "Gameplay Engineer"
 date:   2025-08-20 15:39:40
-preview: /assets/postpreview.png
-img1: /assets/fullsize.png
-img2: /assets/fullsize.png
-img3: /assets/fullsize.png
+preview: /assets/CD_square.png
+img1: /assets/vc_bnh.jpg
+img2: /assets/wasteland02.png
 ---
 Cemented Dreams is a 3D action parkour game developed as a master student thesis project at USC.
 
