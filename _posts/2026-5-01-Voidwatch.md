@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Cemented Dreams"
-summary: "Gameplay Engineer"
-date:   2025-08-20 15:39:40
-preview: /assets/CD_square.png
-img1: /assets/vc_bnh.jpg
-img2: /assets/wasteland02.png
+title:  "Voidwatch"
+summary: "Unity Gameplay Engineer"
+date:   2026-05-20 15:39:40
+preview: /assets/void_square.png
+img1: /assets/void_1.png
+img2: /assets/void_2.png
+img3: /assets/void_3.png
 ---
-Cemented Dreams is a 3D action parkour game developed as a master student thesis project at USC.
+Voidwatch is a 2D action rogue-like game with fast-paced combat and tons of upgrades to unlock to defeat the eldrich cult.
 
-*Game yet to be released in 2025
+Demo Link: [https://store.steampowered.com/app/3764010/Voidwatch/](https://store.steampowered.com/app/3764010/Voidwatch/)
 
 Here's some impressive stuff I did:
-* Created a player interaction system, which integrates with other external features ex. UI
-* Implemented architecture and checkpoint triggers within interaction point blueprints
+* Refactored the stat and upgrade systems to allow for more versatile upgrades for the design team
+* Implemented new upgrades to fit into the existing demo architecture for the final build of the game

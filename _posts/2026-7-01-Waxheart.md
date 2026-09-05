@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "Cemented Dreams"
-summary: "Gameplay Engineer"
-date:   2025-08-20 15:39:40
-preview: /assets/CD_square.png
-img1: /assets/vc_bnh.jpg
-img2: /assets/wasteland02.png
+title:  "Waxheart"
+summary: "QA Analyst"
+date:   2026-08-04 15:39:40
+preview: /assets/wax_square.png
+img1: /assets/wax_1.png
+img2: /assets/wax_2.png
+img3: /assets/wax_3.png
 ---
-Cemented Dreams is a 3D action parkour game developed as a master student thesis project at USC.
+Waxheart is a 3D horror parkour game developed in Unity
 
-*Game yet to be released in 2025
+Demo Link: [https://store.steampowered.com/app/2427900/WaxHeart_Demo/](https://store.steampowered.com/app/2427900/WaxHeart_Demo/)
 
 Here's some impressive stuff I did:
 * Created a player interaction system, which integrates with other external features ex. UI
