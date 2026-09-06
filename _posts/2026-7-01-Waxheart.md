@@ -13,5 +13,5 @@ Waxheart is a 3D horror parkour game developed in Unity
 Demo Link: [https://store.steampowered.com/app/2427900/WaxHeart_Demo/](https://store.steampowered.com/app/2427900/WaxHeart_Demo/)
 
 Here's some impressive stuff I did:
-* Created a player interaction system, which integrates with other external features ex. UI
-* Implemented architecture and checkpoint triggers within interaction point blueprints
+* Used Trello cards to document and re-check bugs found within this last stage of the game's development 
+* Communicated on a 50+ person team to clarify issues and design choices found in the game
